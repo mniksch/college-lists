@@ -165,6 +165,10 @@ class Output:
 
     def __del__(self):
         try:
-            self.writer.save()
+            if self.debug:
+                print("Saving file ({}).".format(self.fn))
+            self.writer.close()
         except:
+            if self.debug:
+                print("Excel file did not save.")
             pass

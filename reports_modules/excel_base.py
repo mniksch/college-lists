@@ -218,7 +218,7 @@ def create_static_tabs(writer, dfs, formats, cfg, campus, debug, playbook=False)
     else:
         static_tabs_from_csv = [
             (create_all_colleges_tab, "AllColleges"),
-            (create_sat_to_act_tab, "ACTtoSAT"),
+            (create_act_to_sat_tab, "ACTtoSAT"),
             (create_strategies_tab, "Strategies"),
             (create_targets_tab, "StudentTargets"),
         ]

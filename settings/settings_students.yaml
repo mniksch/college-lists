@@ -74,14 +74,6 @@ students_columns:
         head_format: blue_right
         label_format: bold_blue_wrap_right
         cond_format: dash_bottom_right
-    - Email:
-        formula: tbl:Email
-        format: right
-        width: 12h
-        head_text: ''
-        head_format: blue_right
-        label_format: bold_blue_wrap_right
-        cond_format: dash_bottom_right
     - GPA:
         formula: tbl:GPA
         format: two_point_centered
