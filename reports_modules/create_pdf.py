@@ -79,7 +79,7 @@ def _clean_excel(string, data_row, labels):
 
 
 def _shrink_cell(pdf, w, txt, h, border, ln, align, fill):
-    """ writes a cell, but cuts off last characters if too long"""
+    """writes a cell, but cuts off last characters if too long"""
     while w < pdf.get_string_width(txt):
         txt = txt[:-1]
     pdf.cell(w=w, txt=txt, h=h, border=border, ln=ln, align=align, fill=fill)
@@ -270,7 +270,7 @@ def make_pdf_report(fn, dfs, cfg, cfg_ssv, campus, debug, do_solo):
         pdf.set_font("font_r", "", 11)
         pdf.cell(w=w[1], txt="ACT/SAT", h=h[1], border="B", ln=0, align="C", fill=True)
 
-        pdf.cell(w=w[2], txt="GPA", h=h[1], border="B", ln=0, align="C", fill=True)
+        pdf.cell(w=w[2], txt="U/W GPA", h=h[1], border="B", ln=0, align="C", fill=True)
 
         pdf.cell(w=w[3], txt="Race/Eth", h=h[1], border=1, ln=0, align="C", fill=True)
 
@@ -299,9 +299,14 @@ def make_pdf_report(fn, dfs, cfg, cfg_ssv, campus, debug, do_solo):
         )
         pdf.cell(w=w[1], txt=txt, h=h[2], border=0, ln=0, align="C", fill=False)
 
+        txt = (
+            _notnan(stu_data["GPA"], "TBD", "{:4.2f}")
+            + "/"
+            + _notnan(stu_data["WGPA"], "TBD", "{:4.2f}")
+        )
         pdf.cell(
             w=w[2],
-            txt=_notnan(stu_data["GPA"], "TBD", "{:4.2f}"),
+            txt=txt,
             h=h[2],
             border=0,
             ln=0,

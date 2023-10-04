@@ -45,6 +45,11 @@ degree by changes to the yaml file.
 
 In addition to the Excel report, the "-pdf" or "-pdfonly" flag can be used
 to create a multi-page pdf output with one sheet per student.
+
+To create a sample "all campus" report with the test file, copy TEST_students.csv
+and TEST_applications.csv to the home directory, replacing "TEST" with "current"
+and then run:
+    - python create_reports.py -pdf
 -----
 ## Examples of command line execution with various options:
 - **Standard report with all students:**

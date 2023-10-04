@@ -22,23 +22,9 @@ output_file:
 # Listing explicitly allows for intentional groups specified by alternate yamls
 # these are Noble campuses--to be replaced with generic ones
 all_campuses: # campuses to try if "all" selected
-    - Noble
-    - Pritzker
-    - Rauner
-    - Golder
-    - RoweClark
-    - Comer
-    - UIC
-    - Bulls
-    - Muchin
-    - Johnson
-    - DRW
-    - Hansberry
-    - Baker
-    - Butler
-    - Speer
-    - TNA
-    - Mansueto
+    - Alpha HS
+    - Beta HS
+    - Gamma HS
 
 all_strategies: # list all so summaries include those w/ no students
     - 1
@@ -66,22 +52,10 @@ all_strategies: # list all so summaries include those w/ no students
 sort_students:
     Standard: '=%Counselor%&%LastFirst%'
     #Standard: '=%Advisor%&%LastFirst%'
-    Rauner: '=%Cohort%&%Counselor%&%LastFirst%'
-    #Bulls: '=%Cohort%&%Counselor%&%LastFirst%'
-    UIC: '=%Counselor%&%Cohort%&%LastFirst%'
-    Comer: '=%Counselor%&%Cohort%&%LastFirst%'
-    Johnson: '=%Counselor%&%Cohort%&%LastFirst%'
-    DRW: '=%Counselor%&%Cohort%&%LastFirst%'
-    Mansueto: '=%Counselor%&%Cohort%&%LastFirst%'
-    #Muchin: '=%Counselor%&%Cohort%&%LastFirst%'
-    Muchin: '=%Advisor%&%LastFirst%'
-    TNA: '=%Counselor%&%Cohort%&%LastFirst%'
-    Noble: '=%Counselor%&%Cohort%&%LastFirst%'
-    Pritzker: '=%Counselor%&%Cohort%&%LastFirst%'
-    RoweClark: '=%Counselor%&%Cohort%&%LastFirst%'
-    Speer: '=%Counselor%&%Cohort%&%LastFirst%'
-    PAS: '=%Campus%&%LastFirst%'
-    Golder: '=%Cohort%&%Counselor%&%LastFirst%'
+    #CohortCounslor (use campus name): '=%Cohort%&%Counselor%&%LastFirst%'
+    #CounselorCohort: '=%Counselor%&%Cohort%&%LastFirst%'
+    #Advisor: '=%Advisor%&%LastFirst%'
+    #CrossCampusList: '=%Campus%&%LastFirst%'
 
 # This allows individual schools to customize odds/class language
 category_labels:
@@ -97,7 +71,7 @@ category_labels:
         Reach: Reach
         Longshot: Longshot
         HailMary: Hail Mary
-    Baker:
+    Gamma HS:
         TargetGR: Target
         IdealGR: Ideal
         BelowTGR: Below Target
@@ -109,7 +83,7 @@ category_labels:
         Reach: Reach
         Longshot: Longshot
         HailMary: Almost 0
-    Golder:
+    Beta HS:
         TargetGR: Expected
         IdealGR: Ideal
         BelowTGR: Below Expected

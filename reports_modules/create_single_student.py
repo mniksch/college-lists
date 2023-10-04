@@ -117,8 +117,15 @@ def make_single_tab(writer, f_db, dfs, cfg, cfg_ssv, campus, debug, blank=True):
     safe_write(ws, 3, 5, "=INDEX(KidSATs,MATCH(D3,KidIDs,0))", f_db["ssv_odds_title_b"])
     safe_write(ws, 5, 5, "", f_db["ssv_migr_label_b"])
 
-    safe_write(ws, 1, 6, "GPA", f_db["ssv_gpa_title"])
-    safe_write(ws, 2, 6, "=INDEX(KidGPAs,MATCH(D3,KidIDs,0))", f_db["ssv_gpa"])
+    safe_write(ws, 1, 6, "U/W GPA", f_db["ssv_gpa_title"])
+    safe_write(
+        ws,
+        2,
+        6,
+        '=TEXT(INDEX(KidGPAs,MATCH(D3,KidIDs,0)),"#.00")&"/"&'
+        'TEXT(INDEX(KidGPAs,MATCH(D3,KidIDs,0)),"#.00")',
+        f_db["ssv_gpa"],
+    )
     safe_write(ws, 3, 6, "", f_db["ssv_odds_title_c"])
     safe_write(
         ws,
@@ -722,10 +729,10 @@ def make_single_tab(writer, f_db, dfs, cfg, cfg_ssv, campus, debug, blank=True):
     ws.set_column(0, 3, 8.0, f_db["ssv_yellow"], {"hidden": True})
     ws.set_column(4, 4, 40.29)
     ws.set_column(5, 5, 9.0)
-    ws.set_column(6, 6, 6.86)
+    ws.set_column(6, 6, 7.86)
     ws.set_column(7, 7, 8.14)
     ws.set_column(8, 8, 8.86)
-    ws.set_column(9, 9, 18.00)
+    ws.set_column(9, 9, 17.00)
     ws.set_column(10, 28, 7.00, f_db["ssv_color_1"], {"hidden": True})
     ws.set_column(29, 32, 7.00, f_db["ssv_color_6"], {"hidden": True})
 

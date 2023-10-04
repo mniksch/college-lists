@@ -372,10 +372,10 @@ pdf_fonts:
 pdf_widths:
     - 3.21 # Student name
     - 0.75 # ACT/SAT
-    - 0.59 # GPA
+    - 0.69 # GPA
     - 0.70 # Race/Eth
     - 0.75 # Target label
-    - 1.47 # Target
+    - 1.37 # Target
 
 pdf_heights:
     - 0.27 # Title row

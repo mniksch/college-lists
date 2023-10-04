@@ -99,6 +99,7 @@ class Output:
                     "SAT": safe2int,
                     "InterimSAT": safe2int,
                     "GPA": safe2f,
+                    "WGPA": safe2f,
                     "NCES": safe2int,
                     "StudentID": safe2int,
                 },
