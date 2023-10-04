@@ -572,35 +572,35 @@ naviance_college_id,ceeb_code,Campus,collegename,alpha_sort,short_name,stage,ins
 1406,1406,Beta HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,13500336,23500336,NULL,Keena,Caroyln,,0,2017,RD,unknown,unknown,0,,NULL,146676
 1406,1406,Beta HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,12938206,22938206,NULL,Capel,Emily,,0,2017,RD,unknown,unknown,0,,NULL,146676
 1412,1412,Beta HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,13038357,23038357,NULL,Jain,Dong,,0,2017,RD,unknown,unknown,0,,NULL,146719
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12620014,22620014,NULL,Foerster,Albertha,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13207280,23207280,NULL,Hermanson,Ali,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11902093,21902093,NULL,Weinstock,Allison,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12620014,22620014,NULL,Foerster,Albertha,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13207280,23207280,NULL,Hermanson,Ali,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11902093,21902093,NULL,Weinstock,Allison,,0,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Beta HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,14512354,24512354,NULL,Tacker,Amado,,0,2017,RD,unknown,unknown,0,,,146719
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20373557,30373557,NULL,Geter,Andres,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12920811,22920811,NULL,Zirbel,Angeline,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13240210,23240210,NULL,Nida,Ava,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12723145,22723145,NULL,Hundley,Benita,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13018720,23018720,NULL,Chilton,Billi,,0,2017,RD,unknown,unknown,0,,,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12410481,22410481,NULL,Foust,Bo,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14230510,24230510,NULL,Lonon,Britteny,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13828145,23828145,NULL,Laverriere,Carina,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14136022,24136022,NULL,Bryon,Carmel,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13500336,23500336,NULL,Keena,Caroyln,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,15289403,25289403,NULL,Funnell,Colby,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13704748,23704748,NULL,Pribble,Cole,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20373557,30373557,NULL,Geter,Andres,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12920811,22920811,NULL,Zirbel,Angeline,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13240210,23240210,NULL,Nida,Ava,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12723145,22723145,NULL,Hundley,Benita,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13018720,23018720,NULL,Chilton,Billi,,0,2017,RD,unknown,unknown,0,,,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12410481,22410481,NULL,Foust,Bo,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14230510,24230510,NULL,Lonon,Britteny,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13828145,23828145,NULL,Laverriere,Carina,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14136022,24136022,NULL,Bryon,Carmel,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13500336,23500336,NULL,Keena,Caroyln,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,15289403,25289403,NULL,Funnell,Colby,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13704748,23704748,NULL,Pribble,Cole,,0,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Beta HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,13107053,23107053,NULL,Pinner,Daisey,,0,2017,RD,unknown,unknown,0,,NULL,146719
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12587209,22587209,,Holscher,Dan,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12372458,22372458,NULL,Feemster,Darrel,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12973915,22973915,NULL,Hadden,Devin,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13345799,23345799,NULL,Degraffenreid,Domenic,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13020881,23020881,NULL,Gunderman,Don,,0,2017,RD,unknown,unknown,0,,,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12760002,22760002,NULL,Neufeld,Donnie,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20280677,30280677,NULL,Dawe,Doria,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12938206,22938206,NULL,Capel,Emily,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13522704,23522704,NULL,Burges,Enoch,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12519064,22519064,NULL,Lenart,Enriqueta,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11854734,21854734,NULL,Muscarella,Ericka,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12250255,22250255,NULL,Kowalsky,Ethan,,0,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12587209,22587209,,Holscher,Dan,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12372458,22372458,NULL,Feemster,Darrel,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12973915,22973915,NULL,Hadden,Devin,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13345799,23345799,NULL,Degraffenreid,Domenic,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13020881,23020881,NULL,Gunderman,Don,,0,2017,RD,unknown,unknown,0,,,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12760002,22760002,NULL,Neufeld,Donnie,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20280677,30280677,NULL,Dawe,Doria,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12938206,22938206,NULL,Capel,Emily,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13522704,23522704,NULL,Burges,Enoch,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12519064,22519064,NULL,Lenart,Enriqueta,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11854734,21854734,NULL,Muscarella,Ericka,,0,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Beta HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12250255,22250255,NULL,Kowalsky,Ethan,,0,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Beta HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,12981462,22981462,NULL,Deerman,Everett,,0,2017,RD,unknown,unknown,0,,NULL,146719
 1412,1412,Beta HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,20144279,30144279,NULL,Sakai,Foster,,0,2017,RD,unknown,unknown,0,,NULL,146719
 1442,1442,Beta HS,Marian University,Marian University,Marian Univ,pending,private,4Year,13403578,23403578,NULL,Azure,Crissy,,0,2017,RD,unknown,unknown,0,,,151786
@@ -1530,9 +1530,9 @@ C7569,,Beta HS,Lincoln College of Technology,Lincoln College of Technology,Linco
 1406,1406,Gamma HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),mid-year submitted,private,2Year,12907653,22907653,909036102,Fanning,Shanice,,1.5162,2017,RD,unknown,unknown,1,,NULL,146676
 1406,1406,Gamma HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,9861839,19861839,887649253,Chatham,Sharon,,2.5879,2017,ED,unknown,unknown,0,,NULL,146676
 1406,1406,Gamma HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,20513529,30513529,,Galarza,Sonja,,1.6791,2017,RD,unknown,unknown,0,,NULL,146676
-1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,20294993,30294993,687351614,Lappin,Reynaldo,,2.8397,2017,RD,unknown,no,0,,NULL,Arrupe
-1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,13196831,23196831,536604208,Benefield,Rory,,3.4345,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,13478799,23478799,128620918,Waterbury,Sherilyn,,2.7172,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,20294993,30294993,687351614,Lappin,Reynaldo,,2.8397,2017,RD,unknown,no,0,,NULL,100000001
+1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,13196831,23196831,536604208,Benefield,Rory,,3.4345,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Gamma HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,13478799,23478799,128620918,Waterbury,Sherilyn,,2.7172,2017,RD,unknown,unknown,0,,NULL,100000001
 1479,1479,Gamma HS,University of Southern Mississippi,"Southern Mississippi, University of",U of Southern MS,pending,public,4Year,20358443,30358443,,Drapeau,Quincy,,2.5733,2017,RD,unknown,unknown,0,,NULL,176372
 1480,1480,Gamma HS,Mississippi State University,Mississippi State University,Mississippi State Univ,pending,public,4Year,20358443,30358443,,Drapeau,Quincy,,2.5733,2017,RD,unknown,unknown,0,,NULL,176080
 1482,1482,Gamma HS,Mississippi Valley State University,Mississippi Valley State University,Mississippi Valley State Univ,initial materials submitted,public,4Year,13566973,23566973,507916140,Garand,Sol,,2.8661,2017,ED,unknown,unknown,0,,NULL,176044
@@ -2356,34 +2356,34 @@ C9347,,Gamma HS,"Paul Mitchell, The School","Paul Mitchell, The School",Paul Mit
 1406,1406,Alpha HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,12950230,22950230,,Menzie,Kennith,,1.8,2017,RD,unknown,unknown,0,,NULL,146676
 1406,1406,Alpha HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,13106081,23106081,NULL,Graham,Homer,,2.3368,2017,RD,unknown,unknown,0,,NULL,146676
 1406,1406,Alpha HS,Lincoln College (Lincoln),Lincoln College (Lincoln),Lincoln Coll (Lincoln),pending,private,2Year,13011599,23011599,,Giuliani,Marco,,1.719,2017,RD,unknown,unknown,0,,NULL,146676
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,12518142,22518142,NULL,Mclin,Kenneth,,2.3517,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,12518142,22518142,NULL,Mclin,Kenneth,,2.3517,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,20315384,30315384,NULL,Linkous,Lacy,,3.98,2017,RD,unknown,unknown,0,,,146719
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,12567372,22567372,NULL,Augustine,Lance,,3.5864,2017,RD,unknown,unknown,0,,NULL,146719
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,14361887,24361887,NULL,Jeffries,Les,,2.7883,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,12641021,22641021,NULL,Strauch,Margery,,2.24,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,14361887,24361887,NULL,Jeffries,Les,,2.7883,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,initial materials submitted,private,4Year,12641021,22641021,NULL,Strauch,Margery,,2.24,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,12390782,22390782,NULL,Bergan,Hilario,,3.64,2017,RD,unknown,unknown,0,,,146719
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,12778764,22778764,NULL,Wegman,Huey,,4.1467,2017,EA,unknown,unknown,0,,,146719
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12510540,22510540,NULL,Beverly,Inocencia,,2.79,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12510540,22510540,NULL,Beverly,Inocencia,,2.79,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,12980911,22980911,NULL,Herrick,Jannette,,3.4383,2017,RD,unknown,unknown,0,,,146719
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13774959,23774959,NULL,Moczygemba,Jayne,,2.9467,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13774959,23774959,NULL,Moczygemba,Jayne,,2.9467,2017,RD,unknown,unknown,0,,NULL,100000001
 1412,1412,Alpha HS,Loyola University Chicago,Loyola University Chicago,Loyola Chicago,pending,private,4Year,13029536,23029536,,Gonzalas,Jeffery,,3.6483,2017,RD,unknown,unknown,0,,NULL,146719
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11549699,21549699,,Marchal,Justina,,2.2306,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12950230,22950230,,Menzie,Kennith,,1.8,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13025751,23025751,NULL,Hille,Krystal,,2.7983,2017,RD,unknown,unknown,0,,,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11911797,21911797,,Weinberg,Kurt,,3.185,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13376430,23376430,NULL,Lemonds,Lekisha,,2.3941,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12535136,22535136,NULL,Abels,Logan,,3.3949,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13493526,23493526,NULL,Henningsen,Lonna,,2.9898,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12731245,22731245,NULL,Buser,Lorina,,3.255,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12964517,22964517,NULL,Mccree,Loura,,2.77,2017,RD,unknown,unknown,0,,,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20210346,30210346,,Joy,Lyndsay,,2.985,2017,RD,unknown,unknown,0,,,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20106593,30106593,NULL,Pechacek,Lynne,,2.3076,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13393297,23393297,NULL,Schlemmer,Maranda,,3.2559,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13338733,23338733,NULL,Bizzell,Marc,,2.3437,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13106081,23106081,NULL,Graham,Homer,,2.3368,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20203301,30203301,,Lizotte,Ian,,1.7828,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14030287,24030287,NULL,Middleton,Jasmine,,2.6429,2017,RD,unknown,unknown,0,,NULL,Arrupe
-1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13011599,23011599,,Giuliani,Marco,,1.719,2017,RD,unknown,unknown,0,,NULL,Arrupe
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11549699,21549699,,Marchal,Justina,,2.2306,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12950230,22950230,,Menzie,Kennith,,1.8,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13025751,23025751,NULL,Hille,Krystal,,2.7983,2017,RD,unknown,unknown,0,,,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,11911797,21911797,,Weinberg,Kurt,,3.185,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13376430,23376430,NULL,Lemonds,Lekisha,,2.3941,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12535136,22535136,NULL,Abels,Logan,,3.3949,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13493526,23493526,NULL,Henningsen,Lonna,,2.9898,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12731245,22731245,NULL,Buser,Lorina,,3.255,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,12964517,22964517,NULL,Mccree,Loura,,2.77,2017,RD,unknown,unknown,0,,,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20210346,30210346,,Joy,Lyndsay,,2.985,2017,RD,unknown,unknown,0,,,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20106593,30106593,NULL,Pechacek,Lynne,,2.3076,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13393297,23393297,NULL,Schlemmer,Maranda,,3.2559,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13338733,23338733,NULL,Bizzell,Marc,,2.3437,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13106081,23106081,NULL,Graham,Homer,,2.3368,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,20203301,30203301,,Lizotte,Ian,,1.7828,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,14030287,24030287,NULL,Middleton,Jasmine,,2.6429,2017,RD,unknown,unknown,0,,NULL,100000001
+1412,1412,Alpha HS,Arrupe College (Loyola),Loyola University Chicago,Loyola Chicago,pending,private,4Year,13011599,23011599,,Giuliani,Marco,,1.719,2017,RD,unknown,unknown,0,,NULL,100000001
 1424,1424,Alpha HS,Lake Land College,Lake Land College,Lake Land Coll,initial materials submitted,public,2Year,12518142,22518142,NULL,Mclin,Kenneth,,2.3517,2017,RD,unknown,unknown,0,,NULL,146506
 1435,1435,Alpha HS,MacMurray College,MacMurray College,MacMurray Coll,initial materials submitted,private,4Year,13988092,23988092,NULL,Smedley,Imelda,,2.4,2017,RD,unknown,unknown,0,,NULL,146825
 1435,1435,Alpha HS,MacMurray College,MacMurray College,MacMurray Coll,initial materials submitted,private,4Year,12964517,22964517,NULL,Mccree,Loura,,2.77,2017,RD,unknown,unknown,0,,NULL,146825
@@ -3829,20 +3829,20 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Alpha HS,Bowling Green State University*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,201441
 <not used>,,Alpha HS,Eastern Illinois University*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,144892
 <not used>,,Alpha HS,Lincoln College (Lincoln)*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,146676
-<not used>,,Alpha HS,Arrupe College (Loyola)*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Alpha HS,Arrupe College (Loyola)*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,100000001
 <not used>,,Alpha HS,National Louis University- Chicago Campus*,,,interest,,,,23194456,,Caulder,Millie,,,,interest,Unknown,,,,,147536
 <not used>,,Alpha HS,Central Michigan University*,,,interest,,,,22788301,,Matney,Mitzi,,,,interest,Unknown,,,,,169248
 <not used>,,Alpha HS,Northern Illinois University*,,,interest,,,,22788301,,Matney,Mitzi,,,,interest,Unknown,,,,,147703
 <not used>,,Beta HS,Eastern Illinois University*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,144892
 <not used>,,Beta HS,Holy Cross College*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,150774
 <not used>,,Beta HS,Lincoln College (Lincoln)*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,146676
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,National Louis University- Chicago Campus*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,147536
 <not used>,,Beta HS,Northeastern Illinois University*,,,interest,,,,22231617,,Kerns,Adrian,,,,interest,Unknown,,,,,147776
 <not used>,,Beta HS,"CCC, Harry S Truman College*",,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,144184
 <not used>,,Beta HS,Lincoln College (Lincoln)*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,146676
 <not used>,,Beta HS,Lincoln College of Technology - Melrose Park*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,146700
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,National Louis University- Chicago Campus*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,147536
 <not used>,,Beta HS,Northeastern Illinois University*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,147776
 <not used>,,Beta HS,Universal Technical Institute*,,,interest,,,,23463287,,Roehl,Arlen,,,,interest,Unknown,,,,,366191
@@ -3856,7 +3856,7 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Beta HS,Upper Iowa University*,,,interest,,,,23050586,,Boser,Augustine,,,,interest,Unknown,,,,,154493
 <not used>,,Beta HS,The College of Wooster*,,,interest,,,,23050586,,Boser,Augustine,,,,interest,Unknown,,,,,206589
 <not used>,,Beta HS,"CCC, Harold Washington College*",,,interest,,,,22511245,,Melancon,Benny,,,,interest,Unknown,,,,,144209
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,22511245,,Melancon,Benny,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,22511245,,Melancon,Benny,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,National Louis University- Chicago Campus*,,,interest,,,,22511245,,Melancon,Benny,,,,interest,Unknown,,,,,147536
 <not used>,,Beta HS,Albion College*,,,interest,,,,24090662,,Appling,Bobby,,,,interest,Unknown,,,,,168546
 <not used>,,Beta HS,Aurora University*,,,interest,,,,24090662,,Appling,Bobby,,,,interest,Unknown,,,,,143118
@@ -3882,7 +3882,7 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Beta HS,"CCC, Harold Washington College*",,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,144209
 <not used>,,Beta HS,Full Sail University*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,134237
 <not used>,,Beta HS,The Illinois Institute of Art*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,148177
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,National Louis University- Chicago Campus*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,147536
 <not used>,,Beta HS,Northeastern Illinois University*,,,interest,,,,23518154,,Ehrmann,Carmon,,,,interest,Unknown,,,,,147776
 <not used>,,Beta HS,Alabama A&M University*,,,interest,,,,24155152,,Kennelly,Carol,,,,interest,Unknown,,,,,100654
@@ -3890,13 +3890,13 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Beta HS,North Park University*,,,interest,,,,22951261,,Masterson,Daryl,,,,interest,Unknown,,,,,147679
 <not used>,,Beta HS,"CCC, Harold Washington College*",,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,144209
 <not used>,,Beta HS,Illinois State University*,,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,145813
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,Northeastern Illinois University*,,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,147776
 <not used>,,Beta HS,Roosevelt University*,,,interest,,,,23395591,,Gordillo,Dave,,,,interest,Unknown,,,,,148487
 <not used>,,Beta HS,Holy Cross College*,,,interest,,,,23345799,,Degraffenreid,Domenic,,,,interest,Unknown,,,,,150774
 <not used>,,Beta HS,Central Michigan University*,,,interest,,,,23553037,,Joplin,Elmer,,,,interest,Unknown,,,,,169248
 <not used>,,Beta HS,Eastern Illinois University*,,,interest,,,,23553037,,Joplin,Elmer,,,,interest,Unknown,,,,,144892
-<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23553037,,Joplin,Elmer,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Beta HS,Arrupe College (Loyola)*,,,interest,,,,23553037,,Joplin,Elmer,,,,interest,Unknown,,,,,100000001
 <not used>,,Beta HS,North Park University*,,,interest,,,,23553037,,Joplin,Elmer,,,,interest,Unknown,,,,,147679
 <not used>,,Gamma HS,Aurora University*,,,interest,,,,23187778,,Haverty,Monika,,,,interest,Unknown,,,,,143118
 <not used>,,Gamma HS,University of Illinois at Urbana-Champaign*,,,interest,,,,23187778,,Haverty,Monika,,,,interest,Unknown,,,,,145637
@@ -4002,7 +4002,7 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Gamma HS,University of Illinois at Springfield*,,,interest,,,,23088745,,Kolar,Peggie,,,,interest,Unknown,,,,,148654
 <not used>,,Gamma HS,"Southern Illinois University, Carbondale*",,,interest,,,,23088745,,Kolar,Peggie,,,,interest,Unknown,,,,,149222
 <not used>,,Gamma HS,Lincoln College (Lincoln)*,,,interest,,,,30346147,,Dunford,Pennie,,,,interest,Unknown,,,,,146676
-<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,30346147,,Dunford,Pennie,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,30346147,,Dunford,Pennie,,,,interest,Unknown,,,,,100000001
 <not used>,,Gamma HS,Concordia University Chicago*,,,interest,,,,30399101,,Lococo,Penny,,,,interest,Unknown,,,,,144351
 <not used>,,Gamma HS,Eastern Illinois University*,,,interest,,,,30399101,,Lococo,Penny,,,,interest,Unknown,,,,,144892
 <not used>,,Gamma HS,Eastern Michigan University*,,,interest,,,,30399101,,Lococo,Penny,,,,interest,Unknown,,,,,169798
@@ -4134,7 +4134,7 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Gamma HS,DePaul University*,,,interest,,,,23003707,,Rozman,Rutha,,,,interest,Unknown,,,,,144740
 <not used>,,Gamma HS,Concordia University Chicago*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,144351
 <not used>,,Gamma HS,Dominican University*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,148496
-<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,100000001
 <not used>,,Gamma HS,Northern Illinois University*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,147703
 <not used>,,Gamma HS,Richland Community College*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,148292
 <not used>,,Gamma HS,Western Illinois University*,,,interest,,,,22522751,,Blanck,Salina,,,,interest,Unknown,,,,,149772
@@ -4201,7 +4201,7 @@ C9242,1666,Alpha HS,Roosevelt University,Roosevelt University,Roosevelt Universi
 <not used>,,Gamma HS,Elmhurst College*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,144962
 <not used>,,Gamma HS,University of Illinois at Chicago*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,145600
 <not used>,,Gamma HS,Illinois State University*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,145813
-<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,Arrupe
+<not used>,,Gamma HS,Arrupe College (Loyola)*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,100000001
 <not used>,,Gamma HS,North Central College*,,,interest,,,,23388036,,Dillenbeck,Sheri,,,,interest,Unknown,,,,,147660
 <not used>,,Gamma HS,Dominican University*,,,interest,,,,23478799,,Waterbury,Sherilyn,,,,interest,Unknown,,,,,148496
 <not used>,,Gamma HS,Holy Cross College*,,,interest,,,,23478799,,Waterbury,Sherilyn,,,,interest,Unknown,,,,,150774

@@ -26,7 +26,7 @@ UNITID,INSTNM,SimpleBarrons,Adj6yrGrad_All,Adj6yrGrad_AA_Hisp,AdjSAT25,AdjSAT50,
 144005,Chicago State University,Competitive,18.00%,17.00%,N/A,N/A,++/-,1,No,1,1,Both
 144175,City Colleges of Chicago-Olive-Harvey College (2 year),2 year (Noncompetitive),29.00%,29.00%,N/A,N/A,+++,1,No,1,1,Home
 168546,Albion College,Competitive,74.00%,58.00%,N/A,N/A,++/-,1,No,0,0,Campus
-100000001,Arrupe College (Loyola),Noncompetitive,51.00%,46.00%,N/A,N/A,+++,1,No,0,1,Home
+Arrupe,Arrupe College (Loyola),Noncompetitive,51.00%,46.00%,N/A,N/A,+++,1,No,0,1,Home
 144184,City Colleges of Chicago-Harry S Truman College (2 year),2 year (Noncompetitive),34.00%,31.00%,N/A,N/A,+++,1,No,1,1,Home
 146719,Loyola University Chicago,Very Competitive,72.00%,63.00%,1160,1260,++/-,1,No,0,1,Both
 183026,Southern New Hampshire University,Competitive,37.00%,14.00%,N/A,N/A,---,0,No,0,0,Campus
